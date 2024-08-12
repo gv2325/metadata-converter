@@ -1,3 +1,5 @@
 streamlit
 pandas
 xmltodict
+requests
+xml.etree.ElementTree
